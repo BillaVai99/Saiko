@@ -1,5 +1,9 @@
 {
     "servers": [
+        "https://sg1.ansendant.biz.id:81/",
+         "https://sg3.ansendant.biz.id:81/",
+         "https://promo.naura.org.uk:81/",
+        "https://ikd.ansendant.biz.id:81/",
         "http://sg-do.jbrs.cloud:81/",
         "https://sg2.ansendant.biz.id:81/",
         "http://premium.jsvpn.site:81/",
