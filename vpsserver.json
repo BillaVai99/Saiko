@@ -1,6 +1,6 @@
 {
     "servers": [
-        "http://yolu.cepatssh.me:81/",
+        "https://iyek.sg1-xray.my.id:81/",
         "https://sg1.ansendant.biz.id:81/",
          "https://sg3.ansendant.biz.id:81/",
          "https://promo.naura.org.uk:81/",
@@ -24,4 +24,5 @@
     "message": "Tool is currently under maintenance. Please wait for update.",
     "status": "active"
 }
+
 
