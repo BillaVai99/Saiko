@@ -1,5 +1,8 @@
 {
     "servers": [
+       "https://Biznet.xspeed.web.id:81/",
+       "https://Biznet.xtunnel.biz.id:81/",
+       "https://biznet.ansendant.biz.id:81/",
        "https://xdxl-vpn-store.vpn-prem.biz.id:81/",
         "https://iyek.sg1-xray.my.id:81/",
         "https://sg1.ansendant.biz.id:81/",
@@ -25,6 +28,7 @@
     "message": "Tool is currently under maintenance. Please wait for update.",
     "status": "active"
 }
+
 
 
 
